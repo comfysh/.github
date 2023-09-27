@@ -1,3 +1,3 @@
-# Welcome to comfy.sh 👋
+# Organization Profile Page
 
-We are a tiny software house that is still finding its footing.
+Holds metadata for when people visit our Github page
